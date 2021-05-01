@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/randomGenerator/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/randomGenerator/static/js/main.8c362d13.chunk.js",
+    "main.js.map": "/randomGenerator/static/js/main.8c362d13.chunk.js.map",
+    "runtime-main.js": "/randomGenerator/static/js/runtime-main.066ddccb.js",
+    "runtime-main.js.map": "/randomGenerator/static/js/runtime-main.066ddccb.js.map",
+    "static/js/2.e86a751a.chunk.js": "/randomGenerator/static/js/2.e86a751a.chunk.js",
+    "static/js/2.e86a751a.chunk.js.map": "/randomGenerator/static/js/2.e86a751a.chunk.js.map",
+    "static/js/3.2d38df8b.chunk.js": "/randomGenerator/static/js/3.2d38df8b.chunk.js",
+    "static/js/3.2d38df8b.chunk.js.map": "/randomGenerator/static/js/3.2d38df8b.chunk.js.map",
+    "index.html": "/randomGenerator/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/randomGenerator/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.e86a751a.chunk.js.LICENSE.txt": "/randomGenerator/static/js/2.e86a751a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/randomGenerator/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.066ddccb.js",
+    "static/js/2.e86a751a.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.8c362d13.chunk.js"
+  ]
+}

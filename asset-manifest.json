@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/randomGenerator/static/css/main.d8648037.chunk.css",
-    "main.js": "/randomGenerator/static/js/main.68b2e29c.chunk.js",
-    "main.js.map": "/randomGenerator/static/js/main.68b2e29c.chunk.js.map",
+    "main.js": "/randomGenerator/static/js/main.f8c428de.chunk.js",
+    "main.js.map": "/randomGenerator/static/js/main.f8c428de.chunk.js.map",
     "runtime-main.js": "/randomGenerator/static/js/runtime-main.e3a43458.js",
     "runtime-main.js.map": "/randomGenerator/static/js/runtime-main.e3a43458.js.map",
     "static/js/2.798f8731.chunk.js": "/randomGenerator/static/js/2.798f8731.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e3a43458.js",
     "static/js/2.798f8731.chunk.js",
     "static/css/main.d8648037.chunk.css",
-    "static/js/main.68b2e29c.chunk.js"
+    "static/js/main.f8c428de.chunk.js"
   ]
 }
